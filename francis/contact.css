@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+    margin:0px;
+    padding: 0px;
+  }
+  .site-footer{
+    background-color: #343a40!important;
+    color:whitesmoke;
+    display: block;
+    grid-gap: 12px 18px;
+  }
+  .ig:hover{
+    text-decoration: none;
+    list-style: none;
+    color: red;
+  }
+  .yt:hover{
+    text-decoration: none;
+    list-style: none;
+    color: red;
+  }
+  .tw:hover{
+    text-decoration: none;
+    list-style: none;
+    color: blue;
+  }
+  .git:hover{
+    text-decoration: none;
+    list-style: none;
+    color:black;
+  }
+  .fb:hover{
+    text-decoration: none;
+    list-style: none;
+    color: blue;
+  }
+  .cp:hover{
+    text-decoration: none;
+    list-style: none;
+    color:black;
+  
+  
